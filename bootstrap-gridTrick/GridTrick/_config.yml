@@ -1,0 +1,6 @@
+title: Grid Trick
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+baseurl: /awesome-pizza-website
+permalink: pretty
